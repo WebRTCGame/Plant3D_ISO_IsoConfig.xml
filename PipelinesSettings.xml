@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ISO_FILES>ISOCONFIG.FLS</ISO_FILES>
+  <UNITS_BORE>INCH</UNITS_BORE>
+  <UNITS_CO_ORDS>INCH</UNITS_CO_ORDS>
+  <UNITS_WEIGHT>LBS</UNITS_WEIGHT>
+  <UNITS_BOLT_DIA>INCH</UNITS_BOLT_DIA>
+  <UNITS_BOLT_LENGTH>INCH</UNITS_BOLT_LENGTH>
+</PipelineSettings>

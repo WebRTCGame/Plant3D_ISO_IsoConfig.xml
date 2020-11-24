@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IsoPipelineReferenceMap xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PipelineReferenceMap LineNumber="CX-4227" PipelineReference="CX-4227" DwgPath="\Plant 3D Models\01_Piping\Detail Design 3D\Area 4\B2TF1_TF_A4.dwg" />
+</IsoPipelineReferenceMap>

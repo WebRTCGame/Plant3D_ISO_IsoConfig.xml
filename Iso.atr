@@ -1,0 +1,32 @@
+﻿ATTRIBUTES
+Attribute1 P3dLineGroup.Tracing_Type
+Attribute2 P3dLineGroup.InsulationThickness
+Attribute3 P3dLineGroup.DrawnBy1
+Attribute4 P3dLineGroup.DrawnDate1
+Attribute5 P3dLineGroup.CheckedBy1
+Attribute6 P3dLineGroup.CheckedDate1
+Attribute7 P3dLineGroup.OriginalIssueDate
+Attribute8 P3dLineGroup.RevBlk1
+Attribute9 P3dLineGroup.RevBlk2
+Attribute10 P3dLineGroup.RevBlkDate1
+Attribute11 P3dLineGroup.RevBlkDate2
+Attribute12 P3dLineGroup.RevBlkDescr1
+Attribute13 P3dLineGroup.RevBlkDescr2
+Attribute14 P3dLineGroup.RevBlkBy1
+Attribute15 P3dLineGroup.RevBlkBy2
+Attribute16 P3dLineGroup.RevBlkCk1
+Attribute17 P3dLineGroup.RevBlkCk2
+Attribute18 P3dLineGroup.DesignPress
+Attribute19 P3dLineGroup.DesignTemp
+Attribute20 P3dLineGroup.OperatingPressure
+Attribute21 P3dLineGroup.OperatingTemp
+Attribute22 P3dLineGroup.InsulationType
+Attribute23 P3dLineGroup.BuildingNumber
+Attribute24 P3dLineGroup.PIDDrawing
+Attribute25 P3dLineGroup.ProjectArea
+Attribute26 P3dLineGroup.SpecTitleBlock
+
+BOM-ATTRIBUTES
+EngineeringItems.Schedule
+EngineeringItems.PressureClass
+EngineeringItems.Material
